@@ -1,0 +1,34 @@
+{
+  "name": "mokobot",
+  "version": "1.0.0",
+  "description": "A multi functional bot",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discord-bot",
+    "pso2"
+  ],
+  "author": {
+    "name": "mokocup",
+    "url": "https://github.com/mokocup/"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mokocup/Mokobot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mokocup/Mokobot/issues"
+  },
+  "homepage": "https://github.com/mokocup/Mokobot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "request": "^2.88.2"
+  },
+  "bin": {
+    "mokobot": "./src/index.js"
+  }
+}
