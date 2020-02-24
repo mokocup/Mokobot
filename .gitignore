@@ -67,3 +67,4 @@ typings/
 .idea/
 test/
 src/config.json
+package-lock.json

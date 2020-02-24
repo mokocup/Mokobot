@@ -7,9 +7,10 @@
   },
   "keywords": [
     "discord",
-    "bot",
     "discord-bot",
-    "pso2"
+    "bot",
+    "framework",
+    "discordjs"
   ],
   "author": {
     "name": "mokocup",
@@ -25,8 +26,7 @@
   },
   "homepage": "https://github.com/mokocup/Mokobot#readme",
   "dependencies": {
-    "discord.js": "^11.5.1",
-    "request": "^2.88.2"
+    "discord.js": "^11.5.1"
   },
   "bin": {
     "mokobot": "./src/index.js"
